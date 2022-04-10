@@ -15,4 +15,10 @@ cscript ospp.vbs /sethst:104.244.78.23
 cscript ospp.vbs /act
 ```
 
+IF SUCCESSFULL, THIS WILL SHOW UP (at the end):
+![image](https://user-images.githubusercontent.com/34002411/162635362-18de5ea9-15d1-4b4d-acf5-420b61bf4076.png)
+
+
+IF NOT, try again and again. (proxy links will be provided soon)
+
 and you are all done.
