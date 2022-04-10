@@ -1,8 +1,13 @@
 # ms_activate
 activate ms office 2016 and newer
 
+# STEPS:
+1. Install MS Office any version (2016 or higher)
+2. Keep internet ON **(MUST)**
+3. Keep Antivirus ON *(if you have any)*
 
-Run this Code on CMD with Admin previllage
+
+4. Run this Code on CMD with Admin previllage
 
 ```
 cd /d %ProgramFiles%\Microsoft Office\Office16
@@ -13,6 +18,7 @@ cscript ospp.vbs /unpkey:6MWKP >nul
 cscript ospp.vbs /inpkey:NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP
 cscript ospp.vbs /sethst:104.244.78.23
 cscript ospp.vbs /act
+
 ```
 
 IF SUCCESSFULL, THIS WILL SHOW UP (at the end):
