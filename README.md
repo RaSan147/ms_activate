@@ -27,4 +27,16 @@ IF SUCCESSFULL, THIS WILL SHOW UP (at the end):
 
 IF NOT, try again and again. (proxy links will be provided soon)
 
+
+# activate windows 10/11
+```
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+slmgr /skms 104.244.78.23
+slmgr /ato
+
+```
 and you are all done.
+
+
+
+
